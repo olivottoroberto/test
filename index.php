@@ -7,5 +7,6 @@
 </head>
 <body>
     modifica da remoto
+    modifica locale
 </body>
 </html>
