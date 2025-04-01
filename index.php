@@ -6,7 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    modifica da remoto
     modifica locale
     altra modifica
 </body>
